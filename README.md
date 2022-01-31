@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrxBurn
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Software Development, Mobile App Development and anything related to coding :)
 - 🌱 I’m currently learning Flutter App Development
 
