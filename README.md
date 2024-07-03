@@ -1,6 +1,13 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Software Development, Mobile App Development and anything related to coding :)
-- 🌱 I’m currently learning Flutter App Development
+- 🌱 Tech Stack:
+- Flutter
+- Firebase
+- ReactTS, ReactJS
+- A bit of Java
+- C#
+- Godot (I like game dev)
+- Python
 
 - 📫 How to reach me:
   * LinkedIn: https://www.linkedin.com/in/alexandru-todea-5b97891bb/
